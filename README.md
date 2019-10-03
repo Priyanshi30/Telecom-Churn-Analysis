@@ -4,7 +4,7 @@
 
 Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and what are the other factors that lead to the user changing their network provider.
 
-### DATA DICTIONARY :
+### Data Dictionary :
 
 Variable |Description
 --------- |-------------
@@ -14,7 +14,7 @@ Phone, Multiple lines, Internet, Online security, Online Backup, Device protecti
 Tenure, Contract, Payment Method, paperless billing, monthly charges, and total charges |Customer Account Information 
 
 
-### DATASET QUESTION:
+#### Dataset Question:
 
 1. To predict the age group trend who switches network providers?
 
