@@ -1,20 +1,17 @@
-# Telecom-Churn-Analysis
+# TELECOM-CHURN-ANALYSIS
 
 ## PROBLEM STATEMENT:
 
-Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and the factors that lead to the user changing their network provider.
+Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and what are the other factors that lead to the user changing their network provider.
 
 ### DATA DICTIONARY :
 
 Variable | Description
 --------- |-------------
-Churn | Customers who left within the last month
-Phone   | Services that each customer has signed up for
-Multiple lines, internet | Services that each customer has signed up for
-Online security, online backup | Services that each customer has signed up for
-Device protection, tech support, and streaming TV and movies | Services that each customer has signed up for 
-Contract, payment method, paperless billing, monthly charges, and total charges | Customer account information
-Gender, age range, and if they have partners and dependents | Demographic info about customers
+Churn | Customers who have left the network provider within the last month
+Demographic Information about Customers |Gender,Age Range and if they have partners and dependents
+Services Being Leveraged by each customer |phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+Customer Account Information |customers association duration with the network provider, Contract Information, Payment Method, paperless billing, monthly charges, and total charges
 
 
 ### DATASET QUESTION:
