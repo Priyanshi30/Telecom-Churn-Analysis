@@ -6,12 +6,12 @@ Analysis is to predict if age group of the users is one of the driving force beh
 
 ### DATA DICTIONARY :
 
-Variable | Description
+Variable |Description
 --------- |-------------
 Churn | Customers who have left the network provider within the last month
-Demographic Information about Customers |Gender,Age Range and if they have partners and dependents
-Services Being Leveraged by each customer |phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-Customer Account Information |customers association duration with the network provider, Contract Information, Payment Method, paperless billing, monthly charges, and total charges
+Gender,Age Range,Senior Citizen  and if they have partners and dependents|Demographic Information about Customers
+Phone, Multiple lines, Internet, Online security, Online Backup, Device protection, Tech Support and streaming TV and movies|Service Details that each customer has enrolled for 
+Tenure, Contract, Payment Method, paperless billing, monthly charges, and total charges |Customer Account Information 
 
 
 ### DATASET QUESTION:
