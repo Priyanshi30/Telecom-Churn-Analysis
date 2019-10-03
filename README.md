@@ -8,11 +8,8 @@ Analysis is to predict if age group of the users is one of the driving force beh
 
 Variable | Description
 --------- |-------------
-
 Churn     | Customers who left within the last month
-
 Phone   | Services that each customer has signed up for
-
 Multiple lines, internet | Services that each customer has signed up for
 
 Online security, online backup | Services that each customer has signed up for
