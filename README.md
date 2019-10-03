@@ -1,6 +1,6 @@
 # TELECOM-CHURN-ANALYSIS
 
-## PROBLEM STATEMENT:
+## Problem Statement:
 
 Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and what are the other factors that lead to the user changing their network provider.
 
