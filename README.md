@@ -4,14 +4,12 @@
 
 Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and what are the other factors that lead to the user changing their network provider.
 
-## DataSet Dictionary :
+## Data Dictionary :
 
-Variable |Description
---------- |-------------
-Churn | Customers who have left the network provider within the last month
-CustomerID,Gender,SeniorCitizen and if they have Partners and Dependents|Demographic Information about Customers
-PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV and StreamingMovies|Service Details that each customer has enrolled for 
-Tenure, Contract, PaymentMethod, PaperlessBilling, MonthlyCharges, and TotalCharges |Customer Account Information 
+Variable|Description|Data Type
+-------------------
+CustomerID|Customer's unique identification ID |Factors
+Gender|Whether customer is Male or Female|Factors
 
 
 ## Dataset Question:
